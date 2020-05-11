@@ -1,6 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# NewCo.
+
+#### _05/08/2020_
+
+#### _By Jonathan Carlos_
+
+## **Description**
+
+
+
+
+## **Minimum Viable Product (MVP)**
+
+
+
+## Specifications
+
+## **Setup/Installation**
+
+*Option One:*
+1. Open up your terminal.
+2. Navigate to the desired directory in which you want to clone this repository.
+3. Use `git clone https://github.com/jamestlalocPDX/epicodus-capstone` to clone this repository.
+4. Open the repository using `code epicodus-capstone` .
+5. Install all dependencies using `$ npm install` in your terminal.
+6. Use `$ npm run build` to start a package bundle.
+7. Use `$ npm run start` in your terminal for a live development server.
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
@@ -37,32 +65,30 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## **Known Bugs**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+No known bugs at this time.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## **Support and contact details**
 
-### Code Splitting
+If you have any questions, comments, or concerns, feel free to contact the content creator at examplemail@company.net 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## **Technologies used**
 
-### Analyzing the Bundle Size
+* React 6.13.7
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+* Git 2.23.0
 
-### Making a Progressive Web App
+* Webpack
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+* JavaScript 
 
-### Advanced Configuration
+* Visual Studio Code 1.43.1
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+* GitBash
 
-### Deployment
+## **License**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Copyright (c) 2020 **_NewCo._**
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This software is licensed under the MIT license.
