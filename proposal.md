@@ -10,14 +10,15 @@ NewCo. is a social networking platform that will allow users to sign-up, add fri
 
 The growing complexity that comes from taking a full-on social experience and embedding it onto an online platform is ever-changing and has not reached its fullest potential. Therefore, primary users will consist of younger folk who seek to connect with friends and family while being able to smoothly navigate through navbars, buttons, and hyperlinks. 
 
-As technology continues to become an integral part of daily life, more and more people will create an account on some popular social media platform. Many are cluttered with links, buttons, and information in an unorganized manner. 
+As technology continues to become an integral part of daily life, more and more people will create some sort of account on some popular social media platform. Many are cluttered with links, buttons, and information in an unorganized manner. NewCo will offer a landing page that does not overwhelm new or returning users. A color scheme will be chosen using color psychology in order to create a unique and positive experience. Users who are logged in will be routed to a home page where posts will be neatly formatted in the middle, personal information will be neatly formatted on the left, and every route in the app will bear the navbar.
+
+The tools this app provides will allow users to connect with one another, share posts in each other's newsfeeds, and navigate through the site with ease, all thanks to the organization of information and UI.
 
 ##### Minimum Viable Product
 
 * Feature that allows a user to post and delete a message on a newsfeed.
 * Feature that allows a user to comment on other people’s posts.
 * Feature that allows a user to to 'like' or 'dislike' someone else's comment.
-
 
 ##### Tools for MVP
 
@@ -51,6 +52,6 @@ As technology continues to become an integral part of daily life, more and more 
 
 * Bootsrap
 
+#### Additional Information
 
-##### Additional Information
-	The main focus with this application will be on the UI and UX. The goal is to create an aesthetically pleasing, easy and intuitive interactive website that will attempt to compel users to sign up and make this app a household name. It would be too much to tackle every single feature that popular platforms already offer, so the biggest difference will lie in interaction.
+The main focus with this application will be on the UI and UX. The goal is to create an aesthetically pleasing, easy and intuitive interactive website that will attempt to compel users to sign up and make this app a household name. It would be too much to tackle every single feature that popular platforms already offer, so the biggest difference will lie in interaction.
