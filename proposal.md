@@ -25,18 +25,23 @@ As technology continues to become an integral part of daily life, more and more 
 
 * React && Redux - These librarries will be used as the front-end framework, focusing on the user experience by providing a fast and reactive application as possible.
 
-* Express && Node.js - This will be used to 
+* Express && Node.js - This will be used to create a REST API server.
 
-* Material-UI
+* Material-UI - This library will be used to style the app such as the navbar, buttons, and other features.
 
 ##### Additional Features
 
 * User Registration / Sign-Up Feature - A user's account log-in information will be held in database storage.
-* Log-in / Log-out Feature - A user will be able to log in and out of their account using database authentication
 
-Notifications
-Sort the newsfeed in ascending timestamp order
-Shareable images and videos.
+* Log-in / Log-out Feature - A user will be able to log in and out of their account using database authentication.
+
+* Notifications - A user will be notified when someone interacts with their posts.
+
+* Sort Newsfeed in Ascending Timestamp Order - The most recent posts will show on the newsfeed.
+
+* Videos / Images - A user will be able to post an image or a video.
+
+* Share - A user will be able to share someone else's post.
 
 ##### Tools for Additional Features
 
@@ -45,7 +50,6 @@ Shareable images and videos.
 * RESTful API
 
 * Bootsrap
-
 
 
 ##### Additional Information
