@@ -1,6 +1,6 @@
 ## Jonathan Carlos
 
-## NewCo. (Name in progress! I want it to be cool, not rushed.)
+## NewCo.
 
 ### Description
 
