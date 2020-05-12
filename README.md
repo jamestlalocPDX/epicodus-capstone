@@ -85,13 +85,23 @@ If you have any questions, comments, or concerns, feel free to contact the appli
 
 ## **Technologies Used**
 
-* React 6.13.7
+* React
+
+* JSX
+
+* Redux
+
+* Firebase
+
+* Node.js
 
 * Git 2.23.0
 
-* Webpack 6.13.7
+* Webpack 
 
-* JavaScript 6.13.7
+* JavaScript
+
+* CSS
 
 * Visual Studio Code 1.43.1
 
