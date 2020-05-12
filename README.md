@@ -6,12 +6,22 @@
 
 ## **Description**
 
-
-
+NewCo. is a social networking platform that will allow users to sign-up, add friends, and post different types of content such as images and comments in an effort to innovate the next generation of online socializing.
 
 ## **Minimum Viable Product (MVP)**
 
+* Feature that allows a user to post and delete a message on a newsfeed.
+* Feature that allows a user to comment on other people’s posts.
+* Feature that allows a user to to 'like' or 'dislike' someone else's comment.
 
+Stretch goals include:
+
+* User Registration / Sign-Up Feature - A user's account log-in information will be held in database storage.
+* Log-in / Log-out Feature - A user will be able to log in and out of their account using database authentication.
+* Notifications - A user will be notified when someone interacts with their posts.
+* Sort Newsfeed in Ascending Timestamp Order - The most recent posts will show on the newsfeed.
+* Videos / Images - A user will be able to post an image or a video.
+* Share - A user will be able to share someone else's post.
 
 ## Specifications
 
@@ -69,19 +79,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 No known bugs at this time.
 
-## **Support and contact details**
+## **Support and Contact Details**
 
-If you have any questions, comments, or concerns, feel free to contact the content creator at examplemail@company.net 
+If you have any questions, comments, or concerns, feel free to contact the application creator at examplemail@company.net 
 
-## **Technologies used**
+## **Technologies Used**
 
 * React 6.13.7
 
 * Git 2.23.0
 
-* Webpack
+* Webpack 6.13.7
 
-* JavaScript 
+* JavaScript 6.13.7
 
 * Visual Studio Code 1.43.1
 
