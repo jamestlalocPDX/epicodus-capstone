@@ -15,31 +15,38 @@ As technology continues to become an integral part of daily life, more and more 
 ##### Minimum Viable Product
 
 * Feature that allows a user to post and delete a message on a newsfeed.
-* Feature that allows a user to to 'like' or 'dislike' someone else's comment.
 * Feature that allows a user to comment on other people’s posts.
+* Feature that allows a user to to 'like' or 'dislike' someone else's comment.
+
 
 ##### Tools for MVP
-Firebase
-Express
-React
-Node.js
-Material-UI
+
+* Firebase && Firestore - This will be used for user authentication, realtime database, and eventually hosting. By utilizing this BaaS, it will decrease start-up development time, and handle traffic until the platform expands. 
+
+* React && Redux - These librarries will be used as the front-end framework, focusing on the user experience by providing a fast and reactive application as possible.
+
+* Express && Node.js - This will be used to 
+
+* Material-UI
 
 ##### Additional Features
 
 * User Registration / Sign-Up Feature - A user's account log-in information will be held in database storage.
-* Log-in / Log-out
+* Log-in / Log-out Feature - A user will be able to log in and out of their account using database authentication
 
 Notifications
-Sort the newsfeed in ascending timestamp orde
+Sort the newsfeed in ascending timestamp order
 Shareable images and videos.
 
 ##### Tools for Additional Features
-Firebase
-RESTful API
-Bootsrap
+
+* Postman
+
+* RESTful API
+
+* Bootsrap
 
 
 
 ##### Additional Information
-	My main focus with this project will be on UI and UX. I want to create an aesthetically pleasing, easy and intuitive interactive website that will attempt to compel users to sign up and make this app a household app. It would be too much to tackle every single feature that popular platforms already offer, so my main difference will lie in interaction. However, I do hope to hit MVP throughout the weekend so I can balance time on some additional features and not get too carried away just on UI/UX.
+	The main focus with this application will be on the UI and UX. The goal is to create an aesthetically pleasing, easy and intuitive interactive website that will attempt to compel users to sign up and make this app a household name. It would be too much to tackle every single feature that popular platforms already offer, so the biggest difference will lie in interaction.
