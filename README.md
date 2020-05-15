@@ -24,6 +24,9 @@ Stretch goals include:
 * Share - A user will be able to share someone else's post.
 
 ## Specifications
+<p align="center">
+  <img src="./img/component-tree.png">
+</p> 
 
 ## **Setup/Installation**
 
