@@ -25,7 +25,7 @@ Stretch goals include:
 
 ## Specifications
 <p align="center">
-  <img src="./img/component-tree.png">
+  <img src="./src/img/component-tree.png">
 </p> 
 
 ## **Setup/Installation**
