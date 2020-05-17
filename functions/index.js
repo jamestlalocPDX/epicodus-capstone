@@ -10,7 +10,7 @@ exports.helloWorld = functions.https.onRequest((request, response) => {
  response.send("Hello world!");
 });
 
-exports.getPosts = functions.https.onRequest((req, res) => {
+exports.getPost = functions.https.onRequest((req, res) => {
   admin.firestore().collection("posts").get()
     .then(data => {
         let posts = [];
@@ -21,3 +21,22 @@ exports.getPosts = functions.https.onRequest((req, res) => {
     })
     .catch(err => console.error(err));
 })
+
+ exports.createPost = functions.https.onRequest((req, res) => {
+   const newPost = {
+     body: req.body.body,
+     userhandle: req.body.userHandle,
+     createdAt: admin.firestore.Timestamp.fromDate(new Date())
+   };
+
+   admin.firestore()
+   .collection("posts")
+   .add(newPost)
+   .then(doc => {
+     res.json({ message: `document ${doc.id} created successfully` })
+   })
+   .catch(err => {
+      res.status(500).json({ error: "something went wrong" })
+     console.error(err);
+   })
+ })
